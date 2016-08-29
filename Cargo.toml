@@ -1,0 +1,8 @@
+[package]
+name = "cg"
+version = "0.1.0"
+authors = ["berleon <github@leon-sixt.de>"]
+
+[dependencies]
+cgmath = "0.10.0"
+image = "*"
